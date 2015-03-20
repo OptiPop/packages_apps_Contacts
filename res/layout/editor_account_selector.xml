@@ -23,6 +23,7 @@
     android:layout_width="match_parent"
     android:minHeight="48dip"
     android:layout_marginBottom="@dimen/editor_padding_between_editor_views"
+    android:background="@*android:color/material_blue_grey"
     android:orientation="horizontal"
     android:paddingTop="16dp"
     android:visibility="gone" >
@@ -63,5 +64,4 @@
              android:ellipsize="end" />
 
     </LinearLayout>
-
 </LinearLayout>

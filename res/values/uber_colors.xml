@@ -16,5 +16,6 @@
 <resources>
     <!-- Color of cards background -->
     <color name="card_background_color">#60000000</color>
-
+    <!-- Hint Color -->
+    <color name="hint_text_color">#4dffffff</color>
 </resources>
