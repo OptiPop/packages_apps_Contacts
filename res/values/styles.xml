@@ -317,5 +317,3 @@
         <item name="android:layout_marginTop">@dimen/editor_kind_icon_top_margin</item>
     </style>
 </resources>
-
-
