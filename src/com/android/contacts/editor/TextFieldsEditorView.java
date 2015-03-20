@@ -230,7 +230,6 @@ public class TextFieldsEditorView extends LabeledEditorView {
 
         int fieldCount = kind.fieldList.size();
         mFieldEditTexts = new EditText[fieldCount];
-        int hintTextColor = mContext.getResources().getColor(R.color.hint_text_color);
         for (int index = 0; index < fieldCount; index++) {
             final EditField field = kind.fieldList.get(index);
             final EditText fieldView = new EditText(mContext);
